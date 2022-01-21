@@ -1,32 +1,3 @@
-header{
-    background: -moz-linear-gradient(top, #FFC778, #FFF);
-    background: -webkit-linear-gradient(top, #FFC778, #FFF);
-    background: linear-gradient(to bottom, #FFC778, #FFF);
-    padding:200px;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 35px;
-    margin: 0 auto;
-}
-
-footer{
-    background: -moz-linear-gradient(top,, rgb(37, 20, 20)#ffffff );
-    background: -webkit-linear-gradient(top,rgb(37, 20, 20)#ffffff );
-    background: linear-gradient(to bottom,rgb(37, 20, 20)#ffffff );    
-    padding:100px;
-}
-.content{
-    width: 100%;
-    align-items: center;
-    text-align: center;
-    padding: 20px;
-    height:auto;
-}
-.contentC{
-    width: 100%;
-    height: 100px;
-    color: #FFF;
-}
-.main{
-    display: flex;
+img {
+    max-width: 250px ;
 }
